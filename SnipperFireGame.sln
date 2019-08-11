@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnipperFireGame", "SnipperFireGame\SnipperFireGame.csproj", "{5721DCDB-F6AB-4DAA-B327-849F825CD040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnipperFireGameTests3", "SnipperFireGameTests3\SnipperFireGameTests3.csproj", "{07B1121B-3466-467E-8DA7-1B575B406F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5721DCDB-F6AB-4DAA-B327-849F825CD040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5721DCDB-F6AB-4DAA-B327-849F825CD040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5721DCDB-F6AB-4DAA-B327-849F825CD040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5721DCDB-F6AB-4DAA-B327-849F825CD040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B1121B-3466-467E-8DA7-1B575B406F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B1121B-3466-467E-8DA7-1B575B406F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B1121B-3466-467E-8DA7-1B575B406F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B1121B-3466-467E-8DA7-1B575B406F34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B2BE75-88DD-476F-9715-CD138F7C6E1E}
+	EndGlobalSection
+EndGlobal
